@@ -9,10 +9,16 @@
 
 <h2> 🧾 Certification:</h2> 
 
-- AWS Cloud Practitioner (Studying)
+<h3> Achieved: </h3>
+
 - Google IT Support Certificate
 - Android Enterprise Certified Professional
 - Android Enterprise Certified Associate
+
+<h3> Studying towards: </h3>
+
+- AWS Cloud Practitioner
+- Microsoft Azure Fundamentals 
 
 <h2> 🤳 Connect with me:</h2> 
 
