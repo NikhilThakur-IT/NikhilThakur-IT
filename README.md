@@ -5,6 +5,7 @@
  -  <b>[FIM (File Integrity Monitor)](https://github.com/NikhilThakur-IT/FileIntegrityMonitor)</b>
  -  <b>[Password Management System](https://github.com/NikhilThakur-IT/Password-Manager) </b>
  -  <b>[Active Directory Bulk User Creation](https://github.com/NikhilThakur-IT/Active-Directory-User-Creation)</b>
+ -  <b>Azure Sentinel Honeypot (Youtube Video Upcoming)</b>
  
 
 <h2> 🧾 Certification:</h2> 
