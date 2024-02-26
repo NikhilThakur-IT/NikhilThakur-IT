@@ -1,4 +1,4 @@
-<h1>Hi, I'm Nikhil! <br/><a href="https://github.com/NikhilThakur-IT">Service Desk Specialist</a>, <a href="https://www.linkedin.com/in/NikhilThakur-IT/">Cybersecurity Graduate</a></h1>
+<h1>Hi, I'm Nikhil! <br/><a href="https://github.com/NikhilThakur-IT">ICT Senior Support Officer | Network SME</a>, <a href="https://www.linkedin.com/in/NikhilThakur-IT/">Cybersecurity Graduate</a></h1>
 
 <h2>👨‍💻 Projects:</h2>
 
@@ -15,6 +15,7 @@
 - Google IT Support Certificate
 - Android Enterprise Certified Professional
 - Android Enterprise Certified Associate
+- Advanced Cloud Computing (IAT)
 
 <h3> Studying towards: </h3>
 
@@ -24,3 +25,4 @@
 <h2> 🤳 Connect with me:</h2> 
 
 - [LinkedIn](https://www.linkedin.com/in/nikhilthakur-it)
+- [Email](mailto:Nikhilthakur.IT@gmail.com)
