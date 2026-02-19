@@ -2,6 +2,8 @@
 
 <h2>👨‍💻 Projects:</h2>
 
+Currently obsessed with Claude Code and working on multiple projects 
+
  -  <b>[FIM (File Integrity Monitor)](https://github.com/NikhilThakur-IT/FileIntegrityMonitor)</b>
  -  <b>[Password Management System](https://github.com/NikhilThakur-IT/Password-Manager) </b>
  -  <b>[Active Directory Bulk User Creation](https://github.com/NikhilThakur-IT/Active-Directory-User-Creation)</b>
@@ -21,7 +23,6 @@
 <h3> Studying towards: </h3>
 
 - Project Management Professional (PMP)
-- 
 
 <h2> 🤳 Connect with me:</h2> 
 
